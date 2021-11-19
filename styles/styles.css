@@ -1,0 +1,144 @@
+body {
+  background: linear-gradient(#7cd3d3, #c982df);
+  width: 1450px;
+  height: inherit;
+  margin-top: -50px;
+}
+
+#wikipedia {
+  width: 200px;
+  height: 200px;
+  border-radius: 40px;
+  float: left;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+h1 {
+  color: navy;
+  text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+  margin-left: 240px;
+  padding-top: 30px;
+  font-size: 60px;
+}
+
+h2 {
+  margin-left: 240px;
+  color: rgb(34, 119, 13);
+  font-size: 40px;
+}
+
+#discription {
+  font-size: 22px;
+  margin-top: -24px;
+  margin-left: 238px;
+  margin-bottom: 30px;
+}
+
+h3 {
+  margin-top: 0px;
+  margin-left: 10px;
+  color: rgb(161, 21, 96);
+  text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+  font-size: 40px;
+}
+
+h4 {
+  margin-top: -20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+
+  color: rgb(43, 43, 148);
+  font-size: 30px;
+  text-align: center;
+  text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+p,
+ul {
+  font-size: 18px;
+  margin-left: 10px;
+}
+
+table,
+tr,
+td,
+th {
+  margin-left: 40px;
+  text-align: center;
+  border: 1px solid #001425;
+  border-left: 1px solid #001425;
+  border-right: 1px solid #001425;
+  border-collapse: collapse;
+  width: 200px;
+  height: 30px;
+}
+
+input {
+  margin-top: 60px;
+  float: right;
+}
+
+button {
+  margin-top: 60px;
+  float: right;
+  margin-right: 40px;
+  color: deeppink;
+}
+
+#Video {
+  height: 300px;
+  padding-left: 40px;
+}
+
+ul {
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+
+hr {
+  color: white;
+}
+
+.paragraph {
+  color: rgb(160, 91, 0);
+}
+
+img {
+  width: 400px;
+  object-fit: cover;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  height: 65vh;
+  align-content: center;
+  border-top: 3px solid #001425;
+  border-bottom: 3px solid #001425;
+}
+
+.box {
+  width: 50rem;
+  border-right: 2px solid #001425;
+  border-left: 2px solid #001425;
+  border-collapse: collapse;
+  padding-top: 20px;
+}
+
+.dark-mode {
+  background: linear-gradient(#014747, #48025e);
+  color: white;
+}
+
+#darkMode {
+  width: 200px;
+  height: 30px;
+  margin-top: 50px;
+  color: #014747;
+  background-color: #d59fe6;
+}
