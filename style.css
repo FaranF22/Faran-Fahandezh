@@ -1,0 +1,28 @@
+html {
+  background-color: aquamarine;
+}
+
+.box {
+  margin: auto;
+  margin-top: 50px;
+  width: 40%;
+  text-align: center;
+  border: solid palevioletred 3px;
+}
+
+#expression {
+  width: 60%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  align-items: center;
+}
+
+#button {
+  width: 20%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  background-color: magenta;
+  color: aliceblue;
+}
